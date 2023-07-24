@@ -1,0 +1,38 @@
+Accepting input
+running command: add
+added bannanas to the inventory
+running command: add
+added apples to the inventory
+running command: add
+added hamburger to the inventory
+running command: add
+added ham to the inventory
+running command: add
+added rice to the inventory
+running command: add
+added seltzer to the inventory
+running command: sold
+sold 10 bannanas
+running command: sold
+sold 25 hamburger
+running command: sold
+error: failed to sell 100 ric's
+We don't carry ric
+running command: sold
+sold 25 apples
+running command: sold
+sold 40 hamburger
+running command: sold
+sold 30 seltzer
+running command: sold
+sold 10 seltzer
+running command: inventory
+                       Product | Purchased | Sold | Remaining | Profit $
+------------------------------------------------------------------------
+                        apples:        100:     25:         75: $ -10.25.
+                      bannanas:         55:     10:         45: $ -34.55.
+                           ham:        100:      0:        100: $ -150.00.
+                     hamburger:        255:     65:        190: $ -183.10.
+                          rice:        500:      0:        500: $ -125.00.
+                       seltzer:        100:     40:         60: $ 69.60.
+

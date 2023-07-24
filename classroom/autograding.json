@@ -1,0 +1,94 @@
+{
+  "tests": [
+     {
+      "name": "Unit Test: TestEmptyDeqA",
+      "setup": " ./javac-ds GenericList.java && ./javac-ds GenericListQueue.java && ./javac-ds GenericArrayQueue.java && ./javac-ds TestEmptyDeqA.java",
+      "run": "./java-ds TestEmptyDeqA",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Unit Test: TestEmptyDeqB",
+      "setup": " ./javac-ds GenericList.java && ./javac-ds GenericListQueue.java && ./javac-ds GenericArrayQueue.java && ./javac-ds TestEmptyDeqB.java",
+      "run": "./java-ds TestEmptyDeqB",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Unit Test: TestEmptyDeqC",
+      "setup": " ./javac-ds GenericList.java && ./javac-ds GenericListQueue.java && ./javac-ds GenericArrayQueue.java && ./javac-ds TestEmptyDeqC.java",
+      "run": "./java-ds TestEmptyDeqC",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+     {
+      "name": "Unit Test: TestSizeA",
+      "setup": " ./javac-ds GenericList.java && ./javac-ds GenericListQueue.java && ./javac-ds GenericArrayQueue.java && ./javac-ds TestSizeA.java",
+      "run": "./java-ds TestSizeA",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Unit Test: TestSizeB",
+      "setup": " ./javac-ds GenericList.java && ./javac-ds GenericListQueue.java && ./javac-ds GenericArrayQueue.java && ./javac-ds TestSizeB.java",
+      "run": "./java-ds TestSizeB",     
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Unit Test: Array - Small Input Test",
+      "setup": "./javac-ds GenericArrayQueue.java",
+      "run": "./java-ds GenericArrayQueue < input_sm.txt > output_sm_array_test.txt  && diff output_sm_array_test.txt output_sm_array.txt",     
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Unit Test: Array - Large Input Test",
+      "setup": "./javac-ds GenericArrayQueue.java",
+      "run": "./java-ds GenericArrayQueue < input_lg.txt > output_lg_array_test.txt  && diff output_lg_array_test.txt output_lg_array.txt",     
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Unit Test: List - Small Input Test",
+      "setup": "./javac-ds GenericList.java && ./javac-ds GenericListQueue.java",
+      "run": "./java-ds GenericListQueue < input_sm.txt > output_sm_list_test.txt  && diff output_sm_list_test.txt output_sm_array.txt",     
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Unit Test: List - Large Input Test",
+      "setup": "./javac-ds GenericList.java && ./javac-ds GenericListQueue.java",
+      "run": "./java-ds GenericListQueue < input_lg.txt > output_lg_list_test.txt  && diff output_lg_list_test.txt output_lg_array.txt",     
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}

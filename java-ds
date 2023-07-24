@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp ".:.lift/introcs.jar:.lift/stdlib.jar" $1 
