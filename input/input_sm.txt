@@ -1,0 +1,14 @@
+add bannanas 55 .99 1.99
+add apples 100 .85 2.99
+add hamburger 255 1.99 4.99
+add ham 100 1.50 3.99
+add rice 500 .25 .99
+add seltzer 100 .10 1.99
+sold bannanas 10
+sold hamburger 25
+sold ric 100
+sold apples 25
+sold hamburger 40
+sold seltzer 30
+sold seltzer 10
+inventory

@@ -1,0 +1,1000 @@
+add apple 492 11.48 21 
+add bag 462 59.71 73 
+add ball 69 86.18 89 
+add band 371 63.54 65 
+add basin 394 100.78 171 
+add basket 487 59.64 61 
+add bath 185 22.13 32 
+add bed 481 59.67 111 
+add bee 405 59.62 112 
+add bell 276 76.51 111 
+add berry 448 24.9 49 
+add bird 41 58.37 64 
+add blade 473 38.93 70 
+add board 397 16.38 27 
+add boat 364 33.79 50 
+add bone 369 24.79 28 
+add book 469 77.26 119 
+add boot 25 28.43 34 
+add bottle 135 33.74 57 
+add box 212 67.1 129 
+add boy 175 44.93 90 
+add branch 127 42.25 71 
+add brick 1 86.87 164 
+add bridge 74 98.79 127 
+add brush 233 50.43 68 
+add bucket 466 51.64 70 
+add bulb 485 48.85 59 
+add button 44 68.23 95 
+add cake 8 30.68 42 
+add camera 64 88.78 152 
+add card 242 25.23 45 
+add cart 102 84.83 104 
+add carriage 419 71.41 77 
+add cat 156 12.73 20 
+add chain 326 24.33 36 
+add cheese 189 10.42 14 
+add chest 458 38.38 66 
+add chin 175 20.65 34 
+add church 68 68.96 72 
+add circle 66 14.26 22 
+add clock 28 96.44 193 
+add cloud 293 74.11 102 
+add coat 158 69.77 134 
+add collar 286 13.47 21 
+add comb 324 93.07 178 
+add cord 375 49.55 86 
+add cow 352 95.33 114 
+add cup 103 32.89 49 
+add curtain 308 54.87 87 
+add cushion 182 71.44 101 
+add dog 163 96.06 144 
+add door 168 30.97 49 
+add drain 320 73.35 142 
+add drawer 232 72.13 131 
+add dress 191 47.01 56 
+add drop 456 95.01 173 
+add ear 116 49.91 88 
+add egg 476 48.21 87 
+add engine 222 74.48 148 
+add eye 267 53.14 70 
+add face 205 48.99 90 
+add feather 395 83.1 156 
+add fish 24 65.34 106 
+add flag 28 24.21 38 
+add floor 448 72.35 144 
+add fly 458 61.05 108 
+add fork 430 15.71 16 
+add fowl 498 3.27 4 
+add frame 186 89.92 126 
+add glove 190 87.71 152 
+add goat 185 90.5 134 
+add gun 234 47.48 83 
+add hair 421 78.21 82 
+add hammer 23 40.16 58 
+add hat 112 100.57 112 
+add head 151 59.26 87 
+add hook 40 83.2 109 
+add horse 116 27.35 50 
+add hospital 22 83.13 143 
+add house 370 96.62 113 
+add island 14 32.55 47 
+add jewel 392 63.68 84 
+add kettle 220 53.13 73 
+add key 53 69.31 89 
+add leaf 133 37.97 54 
+add library 253 24.01 27 
+add line 163 59.77 108 
+add lip 246 82.02 89 
+add lock 135 80.83 107 
+add map 380 37.22 40 
+add match 90 22.91 46 
+add nail 56 98.87 118 
+add neck 37 99.25 123 
+add needle 73 6.82 10 
+add nerve 325 31.43 42 
+add net 479 75.3 139 
+add nose 419 50.03 99 
+add nut 193 71.11 88 
+add office 36 29.72 48 
+add orange 422 24.87 45 
+add oven 86 85.0 146 
+add parcel 362 25.4 27 
+add pen 43 91.57 137 
+add pencil 192 53.16 79 
+add picture 370 54.97 69 
+add pig 207 52.19 81 
+add pin 267 26.71 41 
+add pipe 291 56.64 63 
+add plane 58 81.16 152 
+add plate 257 54.96 75 
+add plow 161 70.27 83 
+add pocket 1 9.72 17 
+add rat 32 20.33 38 
+add receipt 395 27.91 48 
+add ring 6 13.53 20 
+add sail 330 36.68 56 
+add scissors 347 73.33 109 
+add seed 183 53.55 57 
+add sheep 345 76.19 119 
+add shelf 405 24.37 35 
+add ship 284 53.8 85 
+add shirt 426 21.93 36 
+add shoe 321 89.85 125 
+add skin 301 71.05 137 
+add skirt 179 16.65 20 
+add snake 478 21.8 25 
+add sock 384 48.2 50 
+add spade 461 3.9 5 
+add sponge 483 36.85 50 
+add spoon 320 82.07 89 
+add spring 347 34.12 48 
+add square 365 15.79 25 
+add stamp 120 1.8 3 
+add star 67 80.78 125 
+add station 247 43.03 78 
+add stem 313 30.73 33 
+add stick 439 9.71 11 
+add stocking 1 17.53 19 
+add stomach 123 3.69 4 
+add table 310 28.57 57 
+add tail 465 48.75 97 
+add thread 189 33.04 34 
+add throat 24 52.66 97 
+add thumb 312 35.59 50 
+add ticket 425 75.56 108 
+add toe 116 96.85 108 
+add tongue 337 95.56 126 
+add tooth 18 44.24 60 
+add town 372 82.48 115 
+add train 62 40.42 62 
+add tray 185 60.5 102 
+add tree 420 41.5 78 
+add trousers 371 81.04 103 
+add umbrella 216 6.08 12 
+add wall 73 46.93 60 
+add watch 347 17.41 24 
+add wheel 397 50.65 99 
+add whistle 273 52.66 55 
+add window 1 34.42 62 
+add wing 152 8.09 14 
+add wire 368 81.07 137 
+add worm 373 48.07 80 
+inventory
+sold cart 202
+bought drop 293
+inventory
+sold book 52
+stock tray
+bought bag 293
+
+inventory
+
+remove square
+remove head
+remove dress
+remove wire
+bought orange 178
+bought island 159
+
+bought snake 56
+remove neck
+
+sold cloud 94
+remove spoon
+sold egg 193
+bought cheese 161
+
+sold wall 48
+bought star 203
+stock key
+sold pig 9
+sold hat 195
+inventory
+
+sold nerve 195
+remove pencil
+sold star 112
+
+sold cheese 283
+stock shelf
+bought hat 298
+stock toe
+inventory
+sold shelf 225
+inventory
+sold skin 177
+bought plane 13
+bought head 287
+bought star 145
+remove dress
+sold sheep 129
+stock bed
+remove stem
+
+sold clock 110
+bought kettle 85
+sold fish 105
+inventory
+inventory
+bought throat 31
+remove blade
+bought office 85
+remove frame
+sold box 154
+remove bulb
+inventory
+stock fowl
+bought eye 7
+sold table 24
+sold rat 22
+
+
+stock bee
+inventory
+inventory
+sold fly 135
+bought cat 215
+remove receipt
+stock ship
+inventory
+inventory
+remove stomach
+inventory
+bought brush 252
+stock apple
+
+remove collar
+sold brush 133
+sold ticket 64
+stock bridge
+inventory
+remove seed
+
+inventory
+inventory
+stock flag
+
+stock blade
+sold pencil 68
+remove chin
+sold book 149
+bought skin 181
+sold drain 284
+remove bridge
+sold tree 184
+inventory
+
+inventory
+remove sock
+sold board 286
+bought island 113
+stock bucket
+stock office
+bought line 130
+sold book 163
+stock tray
+bought bone 91
+inventory
+sold head 78
+remove trousers
+stock gun
+sold trousers 259
+remove oven
+remove window
+remove window
+
+bought star 243
+remove basin
+bought cord 121
+bought head 26
+inventory
+remove spring
+inventory
+sold cat 79
+inventory
+stock flag
+inventory
+stock receipt
+inventory
+
+remove hair
+
+bought sock 52
+sold ball 28
+remove cake
+remove horse
+remove feather
+inventory
+bought drain 72
+bought basket 39
+remove thumb
+remove book
+sold pencil 94
+remove library
+bought island 241
+remove hammer
+bought hair 14
+sold nerve 254
+bought fly 13
+remove camera
+bought dog 132
+bought drain 38
+remove curtain
+sold engine 57
+remove fork
+stock plate
+inventory
+remove eye
+sold flag 163
+remove boy
+inventory
+inventory
+sold floor 193
+sold watch 55
+
+remove bed
+bought boat 67
+stock throat
+bought camera 174
+
+inventory
+stock door
+
+stock kettle
+remove sheep
+stock tray
+remove engine
+inventory
+bought carriage 52
+remove band
+
+
+sold tail 3
+inventory
+
+remove face
+bought spade 269
+sold tree 210
+remove tail
+stock kettle
+
+
+remove wing
+sold chest 284
+stock bee
+sold library 219
+
+stock frame
+bought floor 186
+
+bought drain 120
+
+remove door
+bought oven 239
+remove chain
+sold plane 245
+inventory
+remove book
+inventory
+bought neck 60
+
+bought cat 182
+
+remove chin
+sold feather 259
+bought plow 218
+inventory
+sold basket 190
+stock umbrella
+
+bought band 103
+bought board 95
+remove thread
+
+stock tooth
+stock egg
+inventory
+remove island
+sold brick 192
+bought shelf 57
+sold frame 282
+sold drawer 196
+bought tail 279
+
+inventory
+stock nose
+bought bridge 190
+stock glove
+remove pocket
+sold wire 104
+sold hair 273
+stock parcel
+remove nose
+sold neck 136
+inventory
+inventory
+
+remove engine
+stock branch
+bought glove 126
+inventory
+inventory
+remove egg
+inventory
+
+sold apple 155
+remove plane
+
+
+inventory
+
+bought pig 190
+bought kettle 240
+inventory
+
+stock kettle
+inventory
+sold horse 161
+
+bought bee 27
+
+remove chain
+stock tail
+inventory
+stock pin
+remove trousers
+inventory
+
+sold star 38
+remove tree
+
+sold frame 97
+inventory
+stock chain
+
+sold shirt 265
+inventory
+stock cheese
+sold pen 152
+remove hat
+inventory
+sold bridge 276
+sold jewel 17
+stock ship
+
+inventory
+stock oven
+sold wall 97
+stock whistle
+inventory
+remove cat
+
+bought nerve 41
+remove goat
+bought collar 158
+
+stock sail
+sold basket 113
+remove tray
+stock sail
+stock pin
+
+stock gun
+stock net
+
+sold shirt 109
+remove cow
+inventory
+bought parcel 220
+stock head
+inventory
+bought door 253
+inventory
+remove frame
+sold glove 263
+sold nose 19
+stock town
+stock umbrella
+sold fowl 269
+bought brush 219
+inventory
+inventory
+
+
+remove trousers
+sold chain 153
+
+remove jewel
+sold spoon 154
+bought cake 97
+inventory
+inventory
+stock shoe
+inventory
+inventory
+sold table 10
+stock flag
+stock chain
+
+bought fork 21
+stock hospital
+
+
+
+stock collar
+sold pocket 229
+
+bought drawer 51
+inventory
+remove fish
+inventory
+remove hair
+inventory
+
+inventory
+
+inventory
+stock trousers
+inventory
+bought lip 47
+inventory
+inventory
+inventory
+sold floor 148
+bought house 285
+
+inventory
+sold stamp 13
+remove camera
+inventory
+
+
+
+stock head
+inventory
+inventory
+inventory
+sold bird 91
+inventory
+stock orange
+
+bought spoon 136
+inventory
+inventory
+inventory
+inventory
+
+inventory
+
+stock office
+
+sold blade 146
+
+remove bag
+
+
+stock ticket
+
+
+inventory
+remove boat
+bought tray 20
+inventory
+bought nail 85
+remove skin
+inventory
+
+remove basin
+stock ear
+inventory
+bought brush 180
+
+sold nose 61
+stock tree
+remove wing
+inventory
+
+bought sheep 262
+sold hammer 74
+sold rat 176
+
+inventory
+sold tail 263
+
+stock bed
+
+remove stomach
+bought carriage 146
+bought cloud 296
+sold board 52
+
+remove bone
+
+sold nail 5
+remove dress
+stock parcel
+
+stock spoon
+sold shelf 26
+inventory
+stock bottle
+inventory
+bought head 74
+sold trousers 241
+bought match 281
+bought plate 11
+remove wheel
+bought pen 247
+sold library 121
+inventory
+bought pipe 264
+remove fly
+sold fork 2
+sold pencil 249
+sold wing 271
+bought sponge 10
+
+sold shoe 298
+bought ball 243
+inventory
+inventory
+sold ticket 25
+stock basin
+bought orange 167
+sold goat 118
+inventory
+
+inventory
+inventory
+inventory
+remove book
+inventory
+stock spring
+inventory
+inventory
+inventory
+bought church 271
+inventory
+inventory
+stock train
+
+
+sold egg 8
+stock fork
+stock thread
+
+bought jewel 268
+sold branch 282
+
+stock gun
+
+inventory
+
+bought boy 92
+stock drop
+sold boot 71
+
+
+bought stocking 3
+sold seed 159
+bought kettle 127
+bought bucket 126
+
+stock tree
+bought bridge 169
+inventory
+sold plow 299
+inventory
+stock chain
+bought tooth 210
+
+stock tail
+sold skirt 26
+inventory
+
+
+sold shoe 122
+
+stock town
+inventory
+inventory
+stock key
+stock branch
+sold box 243
+sold flag 252
+inventory
+stock button
+sold tail 264
+inventory
+stock toe
+sold apple 117
+inventory
+stock square
+inventory
+sold bridge 80
+sold line 219
+
+
+
+
+stock drawer
+stock nail
+bought pocket 44
+
+
+inventory
+sold line 184
+
+
+bought plane 288
+
+sold plane 100
+sold door 153
+stock hook
+
+
+
+inventory
+bought net 269
+
+
+stock dress
+
+bought wing 112
+inventory
+bought clock 193
+sold bone 237
+stock curtain
+sold ball 30
+sold shirt 110
+
+
+stock office
+inventory
+inventory
+inventory
+bought nut 11
+sold hook 80
+stock hammer
+stock fowl
+
+stock cat
+inventory
+
+inventory
+stock throat
+bought whistle 208
+stock needle
+bought dress 141
+bought pocket 269
+stock tongue
+bought hook 101
+inventory
+
+
+sold snake 164
+
+inventory
+stock carriage
+bought pen 124
+
+sold nut 294
+bought band 268
+sold goat 134
+
+stock tooth
+stock rat
+inventory
+bought neck 153
+stock ball
+inventory
+sold tree 27
+
+
+
+sold stomach 104
+inventory
+
+sold boat 97
+stock ship
+bought dress 7
+
+inventory
+inventory
+stock sponge
+stock sponge
+bought hospital 74
+stock circle
+inventory
+stock bottle
+inventory
+inventory
+
+sold shirt 63
+inventory
+sold nose 26
+bought chain 136
+sold nail 187
+
+bought coat 205
+sold hat 257
+
+sold drain 40
+stock chain
+
+
+inventory
+bought pen 151
+bought collar 45
+
+inventory
+
+sold cheese 11
+inventory
+stock needle
+
+inventory
+inventory
+
+bought cloud 155
+bought eye 16
+stock ticket
+stock spring
+sold drop 73
+bought dress 33
+bought pencil 147
+
+sold band 103
+sold bird 28
+inventory
+sold umbrella 6
+bought neck 250
+sold plane 249
+inventory
+inventory
+inventory
+sold brick 251
+inventory
+stock pocket
+stock shelf
+bought toe 210
+bought town 248
+
+
+bought tray 287
+stock shelf
+bought door 76
+stock drain
+sold hat 48
+inventory
+inventory
+sold dog 193
+sold ear 57
+
+bought toe 212
+inventory
+
+
+stock stamp
+stock office
+stock bottle
+
+stock cart
+bought dog 157
+
+stock watch
+bought apple 110
+sold frame 158
+
+bought board 224
+stock face
+stock basin
+stock horse
+stock cart
+sold square 162
+
+bought table 13
+stock ticket
+inventory
+sold pencil 296
+
+stock drain
+inventory
+inventory
+sold stomach 57
+sold comb 48
+sold chin 279
+
+bought pig 202
+bought kettle 75
+stock dress
+stock bottle
+stock basket
+sold plow 172
+inventory
+stock berry
+inventory
+sold chain 90
+sold chain 264
+bought kettle 82
+stock church
+sold umbrella 90
+sold cushion 174
+
+inventory
+sold pin 189
+stock plow
+bought engine 109
+stock pocket
+bought drop 182
+sold hospital 168
+stock dress
+stock cart
+bought window 253
+stock brick
+inventory
+bought bee 62
+stock stomach
+inventory
+sold hammer 214
+inventory
+stock boat
+bought cow 215
+sold pocket 51
+inventory
+bought nerve 142
+inventory
+
+inventory
+bought branch 12
+stock fowl
+
+inventory
+inventory
+bought nut 198
+sold hat 224
+sold card 261
+stock chest
+sold watch 119
+sold hair 107
+
+stock ball
+stock drain
+inventory
+
+sold window 31
+
+inventory
+inventory
+bought nut 182
+inventory
+inventory
+bought glove 105
+stock head
+
+bought hammer 41
+inventory
+stock fish
+bought oven 70
+
+bought stamp 60
+sold bath 43
+sold neck 104
+inventory
+sold stick 296
+inventory
+stock cloud
+bought shelf 226
+stock shirt
+sold sail 53
+sold boy 93
+sold bucket 1
+inventory
+inventory
+inventory
+
+sold skirt 135
+bought fly 74
+sold jewel 19
+inventory

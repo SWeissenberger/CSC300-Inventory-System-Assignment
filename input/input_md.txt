@@ -1,0 +1,500 @@
+stock Hersey_Shakes
+add Butter_Sweet 89 1.0 106.53
+add Cheese-Manchego_Spanish 92 0.9 5.74
+inventory
+stock Dill_Weed-Dry
+add Calypso-Pineapple_Passion 87 0.11 48.09
+remove Cups_10oz_Trans
+stock Onion_Powder
+add Muffin_Batt-Choc_Chk 81 0.47 32.31
+sold Cheese-Stilton 22
+inventory
+stock Broom_Handle
+stock Corn-Mini
+bought Liners-Baking_Cups 26
+sold Cheese-Gouda_Smoked 46
+inventory
+inventory
+remove Parsley_Italian-Fresh
+stock Bread_Fig_And_Almond
+stock Fish-Artic_Char_Cold_Smoked
+bought Juice-Orange_Concentrate 14
+stock Veal-Provimi_Inside
+inventory
+remove Wine-Savigny-Les-Beaune
+inventory
+stock Fork-Plastic
+inventory
+remove Wine-Alsace_Gewurztraminer
+stock Appetizer-Escargot_Puff
+remove Beer-Creemore
+add Radish-Pickled 58 0.89 142.42
+stock Sprouts-Brussel
+add Cheese-Le_Cheve_Noir 68 0.22 103.05
+inventory
+sold Hersey_Shakes 79
+sold Veal-Inside_Round_/_Top_Lean 92
+stock Carbonated_Water-Blackcherry
+stock Bread-Multigrain
+sold Buttons 16
+inventory
+remove Squid_Ink
+sold Papayas 3
+sold Pasta-Fettuccine_Egg_Fresh 44
+sold Pepper-Cubanelle 64
+stock Wine-Placido_Pinot_Grigo
+sold Wine-Jafflin_Bourgongone 4
+add Squash-Butternut 2 0.92 123.07
+sold Sloe_Gin-Mcguinness 65
+bought Wine-Peller_Estates_Late 8
+remove Soup-Campbells_Chili_Veg
+inventory
+add Shiro_Miso 84 0.17 137.73
+inventory
+stock V8_Pet
+sold Wine-Placido_Pinot_Grigo 75
+inventory
+add Beer-Alexander_Kieths_Pale_Ale 45 0.56 66.3
+inventory
+remove Pork-Loin_Bone-In
+bought Veal-Provimi_Inside 51
+add Chick_Peas-Dried 49 0.01 36.37
+stock Pepper-Yellow_Bell
+inventory
+add Propel_Sport_Drink 20 0.3 25.33
+bought Chocolate-Milk_Coating 97
+sold Cheese-Boursin_Garlic_/_Herbs 34
+stock Cheese-Taleggio_D.o.p.
+inventory
+stock Wine-Magnotta-Bel_Paese_White
+remove Mahi_Mahi
+bought Nescafe-Frothy_French_Vanilla 59
+inventory
+add Calypso-Pineapple_Passion 6 0.59 96.93
+remove Gatorade-Fruit_Punch
+stock Towel-Roll_White
+stock Basil-Primerba_Paste
+stock Potatoes-Mini_White_3_Oz
+remove Table_Cloth_144x90_White
+inventory
+sold Aromat_Spice_/_Seasoning 66
+bought Cheese_Cheddar_Processed 46
+stock Appetizer-Shrimp_Puff
+remove Veal-Leg_Provimi-50_Lb_Max
+stock Sage-Rubbed
+bought Veal-Liver 42
+inventory
+remove Cheese-Le_Cheve_Noir
+add Pasta-Penne_Rigate_Dry 96 0.26 28.28
+bought Pork-Chop_Frenched 53
+add Mushroom_Morel_Fresh 36 0.87 38.7
+remove Soho_Lychee_Liqueur
+inventory
+bought Table_Cloth_53x69_White 97
+bought Aromat_Spice_/_Seasoning 52
+remove Nescafe-Frothy_French_Vanilla
+sold Flavouring_Vanilla_Artificial 81
+remove Veal-Brisket_Provimibnls
+bought Cardamon_Seed_/_Pod 66
+sold Water-Tonic 34
+inventory
+stock Onions_Granulated
+stock Fish-Bones
+bought Noodles-Steamed_Chow_Mein 61
+sold Bread-10_Grain 33
+stock Wine-Montecillo_Rioja_Crianza
+sold Pastry-Cherry_Danish-Mini 92
+stock Sprouts-Brussel
+inventory
+remove Flour-So_Mix_Cake_White
+bought Shichimi_Togarashi_Peppeers 56
+add Petite_Baguette 59 0.5 61.53
+bought Veal-Nuckle 7
+bought Rice_Wine-Aji_Mirin 97
+bought Wine-Bourgogne_2002_La 31
+sold Water-Green_Tea_Refresher 53
+inventory
+remove Wine-Segura_Viudas_Aria_Brut
+inventory
+bought Basil-Fresh 73
+bought Truffle_Paste 85
+add Sugar-White_Packet 83 0.67 135.15
+sold Cheese-Gouda 71
+stock Cookie-Oatmeal
+add Foie_Gras 75 0.05 6.13
+add Yogurt-Cherry_175_Gr 35 0.4 83.18
+sold Pasta-Tortellini_Fresh 48
+inventory
+bought Salt-Rock_Course 56
+inventory
+add Table_Cloth-53x69_Colour 87 0.64 126.92
+sold Cups_10oz_Trans 50
+inventory
+stock Tuna-Bluefin
+remove Pepper-Green_Chili
+remove Yams
+bought Huck_Towels_White 15
+stock Spice-Pepper_Portions
+sold Silicone_Paper_16.5x24 57
+inventory
+inventory
+stock Veal-Liver
+inventory
+remove Bread-Olive
+remove Flour-Masa_De_Harina_Mexican
+add Foam_Tray_S2 67 0.07 97.35
+remove Creme_De_Menthe_Green
+remove Propel_Sport_Drink
+bought Lamb-Whole_Fresh 33
+bought Ginger-Pickled 1
+sold Muffin_Mix-Carrot 64
+remove Nut-Chestnuts_Whole
+add Pizza_Pizza_Dough 14 0.47 43.26
+inventory
+inventory
+add Wine-Pinot_Grigio_Collavini 4 0.22 63.2
+remove Jam-Apricot
+add Beer-Rickards_Red 89 0.71 79.31
+remove Bagel-Everything
+sold Beer-Muskoka_Cream_Ale 61
+remove Beef-Sushi_Flat_Iron_Steak
+inventory
+remove Cheese-Brie_Triple_Creme
+stock Pie_Pecan
+inventory
+bought Papayas 42
+stock Langers-Cranberry_Cocktail
+bought Ham-Cooked 4
+stock Broccoli-Fresh
+stock Bread-Hot_Dog_Buns
+bought Wine-Barbera_Alba_Doc_2001 25
+inventory
+sold Soup-Cream_Of_Broccoli_Dry 94
+sold Potatoes-Peeled 50
+inventory
+inventory
+remove Wine-Pinot_Noir_Mondavi_Coastal
+sold Rootbeer 24
+bought Persimmons 5
+add Soup-Campbells_Cream_Of 1 0.7 133.81
+add Beef-Kindney_Whole 84 0.36 49.81
+sold Cheese-Mozzarella_Shredded 33
+stock Carrots-Mini_Stem_On
+bought Soup-Campbells_Cream_Of 23
+sold Flour-Chickpea 10
+remove Sunflower_Seed_Raw
+bought Corn-Mini 50
+inventory
+remove Wine-Red_Mouton_Cadet
+add Nut-Walnut_Chopped 99 0.95 143.45
+bought Pastry-Butterscotch_Baked 38
+bought Tea-Herbal-6_Asst 20
+remove Papayas
+bought Mayonnaise 21
+stock Yogurt-Cherry_175_Gr
+bought Beef-Kindney_Whole 94
+stock Ham-Cooked
+bought Temperature_Recording_Station 17
+sold Ginger-Pickled 39
+inventory
+remove Sage-Fresh
+remove Beer-True_North_Lager
+add Buttons 68 0.25 65.2
+sold Propel_Sport_Drink 63
+remove Honey-Comb
+bought Nestea-Iced_Tea 1
+stock Syrup-Monin-Passion_Fruit
+add Pineapple-Golden 6 0.1 57.48
+remove Ecolab-Mikroklene_4/4_L
+add Flour-Chickpea 82 0.82 19.76
+inventory
+bought Chocolate_Bar-Oh_Henry 22
+remove Wine-Red_Pinot_Noir_Chateau
+sold Mountain_Dew 65
+remove Dry_Ice
+stock Pepperoni_Slices
+stock Tequila-Sauza_Silver
+bought Veal-Leg 81
+remove Oil-Olive_Bertolli
+inventory
+stock Compound-Strawberry
+bought Chips-Assorted 74
+stock Chicken-Breast_5-7_Oz
+sold Gherkin 74
+stock Squash-Pepper
+inventory
+inventory
+stock Yams
+add Pernod 20 0.48 65.32
+inventory
+add Wine-Merlot_Vina_Carmen 55 0.32 95.71
+remove Nut-Pistachio_Shelled
+inventory
+bought Filter-Coffee 89
+sold Liqueur_Banana_Ramazzotti 52
+bought Nantucket_Orange_Juice 96
+stock Glove-Cutting
+sold Cookies-Amaretto 22
+inventory
+bought Sunflower_Seed_Raw 58
+stock Wine-Montecillo_Rioja_Crianza
+sold Garlic-Elephant 75
+add Mikes_Hard_Lemonade 21 0.74 133.29
+inventory
+remove Tarts_Assorted
+inventory
+sold Chicken-Base 82
+bought Blueberries 31
+bought Chips-Assorted 84
+sold Jicama 34
+add Beef-Rib_Eye_Aaa 22 0.63 75.33
+bought Duck-Fat 25
+bought Veal-Provimi_Inside 54
+bought Spice-Peppercorn_Melange 99
+stock Napkin_Colour
+add Beer-True_North_Strong_Ale 17 0.52 44.21
+add Mix-Cocktail_Strawberry_Daiquiri 60 0.44 140.97
+stock Beer-Tetleys
+bought Lettuce-Iceberg 87
+bought Sugar-Sweet_N_Low_Individual 19
+add Veal-Liver 5 0.28 68.85
+inventory
+bought Veal-Brisket_Provimibnls 38
+sold Veal-Leg_Provimi-50_Lb_Max 94
+sold Jam-Apricot 50
+add Lamb-Bones 85 0.89 106.76
+stock Urban_Zen_Drinks
+inventory
+sold Cleaner-Bleach 23
+inventory
+bought Sunflower_Seed_Raw 83
+remove Bread-French_Baquette
+remove Apple-Macintosh
+bought Cornstarch 38
+add Soup_Campbells-Tomato_Bisque 48 0.83 133.22
+bought Table_Cloth-53x69_Colour 91
+remove Cherries-Bing_Canned
+stock Bread-Roll_Calabrese
+remove Flour_Dark_Rye
+stock Chocolate-Milk_Callets
+inventory
+bought Lemonade-Pineapple_Passion 30
+sold Milk-1% 52
+sold Veal-Provimi_Inside 32
+remove Wine-Lou_Black_Shiraz
+stock Wine-Tribal_Sauvignon
+bought Nacho_Chips 54
+inventory
+inventory
+bought Sauce-Oyster 70
+inventory
+stock Dried_Peach
+remove Seabream_Whole_Farmed
+inventory
+bought Clams-Bay 76
+stock Figs
+remove Wine-Hardys_Bankside_Shiraz
+remove Cattail_Hearts
+stock Beef-Texas_Style_Burger
+add Cloves-Ground 57 0.6 7.27
+sold Sugar-Palm 42
+bought Spice-Greek_1_Step 98
+bought Aromat_Spice_/_Seasoning 47
+bought Tart-Butter_Plain_Squares 60
+add Flounder-Fresh 12 0.02 21.32
+stock Cake-Cake_Sheet_Macaroon
+inventory
+sold Juice-V8_Splash 85
+stock Wine-Manischewitz_Concord
+sold V8_Pet 59
+stock Energy_Drink-Redbull_355ml
+bought Bagel-Sesame_Seed_Presliced 72
+stock Soup_Campbells-Tomato_Bisque
+bought Beer-Rickards_Red 96
+add Pizza_Pizza_Dough 0 0.17 110.45
+add Brandy-Orange_Mc_Guiness 96 0.61 13.71
+inventory
+inventory
+add Beans-Fava_Canned 57 0.36 51.5
+stock Limes
+remove Dill_Weed-Fresh
+stock Cheese-Ermite_Bleu
+remove Phyllo_Dough
+bought Soup-Cream_Of_Broccoli_Dry 99
+bought Sauce-Rosee 42
+bought Nut-Chestnuts_Whole 72
+remove Water-Green_Tea_Refresher
+bought Soup-Campbells_Tomato_Ravioli 81
+remove Onion_Powder
+inventory
+add Mace_Ground 80 0.1 103.27
+inventory
+bought Onions-Green 67
+stock Papayas
+remove Pail-15l_White_With_Handle
+stock Beans-Fava_Canned
+sold Ham-Cooked_Bayonne_Tinned 91
+bought Cheese-Valancey 50
+add Ice_Cream-Vanilla 18 0.22 35.43
+sold Beer-Creemore 5
+sold Rappini-Andy_Boy 55
+remove Wine-Spumante_Bambino_White
+stock Mix-Cocktail_Strawberry_Daiquiri
+remove Sachet
+inventory
+add Bread-Hamburger_Buns 16 0.65 130.25
+sold Pasta-Rotini_Colour_Dry 9
+bought Beef-Ground_Extra_Lean_Fresh 86
+inventory
+bought Turkey-Breast_Double 71
+sold Cocoa_Powder-Dutched 99
+add Sauce-Gravy_Au_Jus_Mix 33 0.98 58.03
+inventory
+stock Cake_Slab
+stock Lamb-Whole_Fresh
+bought Juice-Cranberry_341_Ml 16
+inventory
+remove Juice_Peach_Nectar
+sold Grapes-Red 24
+remove Wine-Coteaux_Du_Tricastin_Ac
+stock Lettuce-Spring_Mix
+stock Sage-Rubbed
+remove Silicone_Paper_16.5x24
+bought Beef-Sushi_Flat_Iron_Steak 82
+remove Ice_Cream_Bar-Drumstick
+add Ecolab_Digiclean_Mild_Fm 59 0.97 80.34
+inventory
+inventory
+bought Truffle_Cups-Brown 6
+stock Glove-Cutting
+bought Flour-All_Purpose 82
+sold Radish-Pickled 76
+add Campari 39 0.75 90.58
+bought Lettuce-Spring_Mix 24
+sold Haggis 83
+inventory
+add Wine-Domaine_Boyar_Royal 93 0.95 97.97
+inventory
+add Wine-Segura_Viudas_Aria_Brut 36 0.62 28.04
+sold Beer-Tetleys 28
+remove Glass_Clear_8_Oz
+bought Muffin-Mix-Creme_Brule_15l 99
+inventory
+remove Lettuce-Lolla_Rosa
+inventory
+inventory
+sold Pasta-Ravioli 77
+sold Chinese_Foods-Chicken 90
+add Wine-Lamancha_Do_Crianza 1 0.2 8.62
+remove Wine-Trimbach_Pinot_Blanc
+add Bread_Fig_And_Almond 60 0.88 43.87
+add Drambuie 76 0.6 65.73
+stock Bay_Leaf_Fresh
+stock Cheese-Pied_De_Vents
+sold Cakes_Assorted 92
+sold Cheese-Goat 99
+sold Split_Peas-Yellow_Dry 66
+bought Flour-Masa_De_Harina_Mexican 20
+inventory
+bought Vaccum_Bag_10x13 72
+add Stock-Veal_Brown 79 0.4 36.66
+stock Soup-Campbells-Chicken_Noodle
+bought Chocolate_Bar-Smarties 99
+remove Tamarillo
+sold Ham-Cooked_Bayonne_Tinned 15
+bought Rosemary-Primerba_Paste 28
+inventory
+add Pastry-Butterscotch_Baked 83 0.48 7.26
+bought Wonton_Wrappers 59
+remove Pastry-Apple_Large
+inventory
+add Soup-Cream_Of_Broccoli_Dry 0 0.23 123.27
+inventory
+add Extract-Almond 56 0.3 59.42
+inventory
+remove Dr._Pepper-355ml
+bought Pepper-Julienne_Frozen 28
+stock Veal-Tenderloin_Untrimmed
+add Lettuce-Spring_Mix 7 0.31 104.28
+sold Ice_Cream-Life_Savers 39
+remove Pork-Shoulder
+bought Flour-So_Mix_Cake_White 83
+remove Urban_Zen_Drinks
+stock Lettuce-Baby_Salad_Greens
+remove Higashimaru_Usukuchi_Soy
+add Dried_Cranberries 50 0.94 84.05
+add Jameson_Irish_Whiskey 2 0.66 20.97
+bought Chick_Peas-Dried 9
+inventory
+sold Sugar-Brown 67
+remove Rum-Light_Captain_Morgan
+add Juice-Clam_46_Oz 69 0.16 46.78
+bought Evaporated_Milk-Skim 54
+inventory
+inventory
+add Cabbage_Roll 48 0.74 19.18
+inventory
+inventory
+inventory
+bought Herb_Du_Provence-Primerba 15
+add Cheese-Stilton 40 0.93 103.31
+inventory
+sold Cheese-Gorgonzola 66
+add Mushroom-Oyster_Fresh 69 0.71 79.26
+stock Duck-Legs
+remove Oil-Olive
+bought Sauce-Rosee 40
+stock Juice-Orange_Concentrate
+inventory
+stock Jam-Apricot
+sold Marsala-Sperone_Fine_D.o.c. 79
+bought Juice-Orange_Concentrate 42
+bought Mushroom-Chanterelle_Dry 61
+stock Veal-Tenderloin_Untrimmed
+inventory
+bought Mangoes 43
+sold Tahini_Paste 94
+sold Wine-Barossa_Valley_Estate 17
+inventory
+sold Sausage-Meat 81
+bought Wine-Savigny-Les-Beaune 34
+inventory
+stock Tequila_Rose_Cream_Liquor
+add Water-Green_Tea_Refresher 88 0.25 32.68
+remove Bowl_12_Oz-Showcase_92012
+remove Tart_Shells-Sweet_3
+add Pasta-Ravioli 5 0.06 56.39
+sold Longos-Lasagna_Veg 45
+stock Wine-Merlot_Vina_Carmen
+remove Beans-Kidney_Red_Dry
+stock Hinge_W_Undercut
+sold Glass-Juice_Clear_5oz_55005 29
+add Rappini-Andy_Boy 88 0.71 104.83
+inventory
+add Cheese-Gouda_Smoked 82 0.57 84.82
+inventory
+sold Bread-French_Baquette 81
+bought Chocolate-Pistoles_Lactee_Milk 19
+stock Fish-Base_Bouillion
+bought Lid_Coffee_Cup_8oz_Blk 42
+remove Lettuce-Romaine
+remove Nut-Pecan_Halves
+remove Pork-Loin_Boneless
+bought Pear-Asian 32
+add Pasta-Fettuccine_Egg_Fresh 50 0.51 11.3
+remove Sage-Ground
+stock Juice-Apple_284ml
+inventory
+stock Wine-Barbera_Alba_Doc_2001
+inventory
+inventory
+add Beans-Soya_Bean 61 0.42 38.03
+remove Steel_Wool_S.o.s
+add Maple_Syrup 20 0.02 122.91
+remove Dragon_Fruit
+inventory
+sold Pasta-Penne_Rigate_Dry 86
+add Hersey_Shakes 82 0.63 28.55
+add Container-Foam_Dixie_12_Oz 21 0.52 111.66
+add Beer-Tetleys 43 0.19 138.57
+stock Juice-Orange_Concentrate
